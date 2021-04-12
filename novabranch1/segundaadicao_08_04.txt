@@ -1,2 +1,6 @@
 Adicionar teste 
+<<<<<<< HEAD
 Poder teste
+=======
+Testando conflito 08_04_2021 hoje teste
+>>>>>>> f338ea95ee4ba130e36b4abf730221a6eea6260b
